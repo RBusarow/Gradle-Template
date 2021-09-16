@@ -43,7 +43,7 @@ dependencies {
   dependencySync("androidx.lifecycle:lifecycle-common:2.3.0")
   dependencySync("androidx.lifecycle:lifecycle-livedata-core:2.3.0")
   dependencySync("androidx.lifecycle:lifecycle-livedata-ktx:2.3.0")
-  dependencySync("androidx.lifecycle:lifecycle-runtime-ktx:2.3.0")
+  dependencySync("androidx.lifecycle:lifecycle-runtime-ktx:2.3.1")
   dependencySync("androidx.lifecycle:lifecycle-runtime:2.3.0")
   dependencySync("androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-beta01")
   dependencySync("androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0")
