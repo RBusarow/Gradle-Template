@@ -6,7 +6,7 @@
   cd ..
   ```
 
-3. search and replace **all files** (not just `*.kt*`):
+2. search and replace **all files** (not just `*.kt*`):
 - `TEMPLATE_PROJECT_NAME` -> project's GitHub name
 - `TEMPLATE_DOMAIN` -> project's domain
 - `TEMPLATE_GITHUB_USER` -> GitHub username
