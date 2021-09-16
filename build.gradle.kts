@@ -29,11 +29,11 @@ buildscript {
   }
   dependencies {
     classpath(libs.android.gradle)
-    classpath(libs.square.anvil.gradle)
     classpath(libs.google.ksp)
-    classpath(libs.vanniktech.maven.publish)
     classpath(libs.kotlin.gradle.plug)
     classpath(libs.ktlint.gradle)
+    classpath(libs.square.anvil.gradle)
+    classpath(libs.vanniktech.maven.publish)
   }
 }
 
