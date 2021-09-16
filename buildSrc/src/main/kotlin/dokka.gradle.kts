@@ -57,7 +57,7 @@ subprojects {
               val modulePath = proj.path.replace(":", "/").replaceFirst("/", "")
 
               // URL showing where the source code can be accessed through the web browser
-              /* remoteUrl.set(uri("https://github.com/$GITHUB_USER$/$PROJECT$/blob/main/$modulePath/src/main").toURL()) */
+              remoteUrl.set(uri("https://github.com/TEMPLATE_GITHUB_USER/TEMPLATE_PROJECT_NAME/blob/main/$modulePath/src/main").toURL())
               // Suffix which is used to append the line number to the URL. Use #L for GitHub
               remoteLineSuffix.set("#L")
             }

@@ -1,13 +1,28 @@
+/*
+ * Copyright (C) 2021 Rick Busarow
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 module.exports = {
-  title: "$PROJECT$",
+  title: "TEMPLATE_PROJECT_NAME",
   tagline: "Something Clever",
-  url: "https://$GITHUB_USER$.github.io/",
-  baseUrl: "/$PROJECT$/",
+  url: "https://TEMPLATE_GITHUB_USER.github.io/",
+  baseUrl: "/TEMPLATE_PROJECT_NAME/",
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "$GITHUB_USER$", // Usually your GitHub org/user name.
-  projectName: "$PROJECT$", // Usually your repo name.
+  organizationName: "TEMPLATE_GITHUB_USER", // Usually your GitHub org/user name.
+  projectName: "TEMPLATE_PROJECT_NAME", // Usually your repo name.
   themeConfig: {
     hideableSidebar: true,
     colorMode: {
@@ -28,12 +43,12 @@ module.exports = {
     announcementBar: {
       id: "supportus",
       content:
-        '⭐️ If you like $PROJECT$, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/$GITHUB_USER$/$PROJECT$/">GitHub</a>! ⭐️',
+        '⭐️ If you like TEMPLATE_PROJECT_NAME, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/TEMPLATE_GITHUB_USER/TEMPLATE_PROJECT_NAME/">GitHub</a>! ⭐️',
     },
     navbar: {
-      title: "$PROJECT$",
+      title: "TEMPLATE_PROJECT_NAME",
       logo: {
-        alt: '$PROJECT$ Logo',
+        alt: 'TEMPLATE_PROJECT_NAME Logo',
         src: 'img/logo.png',
       },
       items: [
@@ -65,12 +80,12 @@ module.exports = {
           position: "left",
         },
         {
-          href: "https://twitter.com/$GITHUB_USER$",
+          href: "https://twitter.com/TEMPLATE_GITHUB_USER",
           className: 'header-twitter-link',
           position: "right",
         },
         {
-          href: "https://github.com/$GITHUB_USER$/$PROJECT$/",
+          href: "https://github.com/TEMPLATE_GITHUB_USER/TEMPLATE_PROJECT_NAME/",
           className: 'header-github-link',
           position: "right",
         },
@@ -106,7 +121,7 @@ module.exports = {
            * Base url to edit your site.
            * Docusaurus will compute the final editUrl with "editUrl + relativeDocPath"
            */
-          editUrl: 'https://github.com/$GITHUB_USER$/$PROJECT$/edit/main/website/',
+          editUrl: 'https://github.com/TEMPLATE_GITHUB_USER/TEMPLATE_PROJECT_NAME/edit/main/website/',
           /**
            * For advanced cases, compute the edit url for each Markdown file yourself.
            */
@@ -117,7 +132,7 @@ module.exports = {
                                docPath,
                                permalink,
                              }) {
-            return `https://github.com/$GITHUB_USER$/$PROJECT$/edit/main/website/${versionDocsDirPath}/${docPath}`;
+            return `https://github.com/TEMPLATE_GITHUB_USER/TEMPLATE_PROJECT_NAME/edit/main/website/${versionDocsDirPath}/${docPath}`;
           },
           /**
            * Useful if you commit localized files to git.
@@ -220,7 +235,7 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/$GITHUB_USER$/$PROJECT$/edit/main/website/',
+          editUrl: 'https://github.com/TEMPLATE_GITHUB_USER/TEMPLATE_PROJECT_NAME/edit/main/website/',
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

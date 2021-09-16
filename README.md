@@ -7,11 +7,9 @@
   ```
 
 3. search and replace **all files** (not just `*.kt*`):
-- replace `\$PROJECT$` with the project's GitHub name
-- replace `$PROJECT$` with the project's GitHub name
-- replace `\$DOMAIN$` with the project's domain
-- replace `$DOMAIN$` with the project's domain
-- replace `\$GITHUB_USER$` with the GitHub username
-- replace `$GITHUB_USER$` with the GitHub username
+- `TEMPLATE_PROJECT_NAME` -> project's GitHub name
+- `TEMPLATE_DOMAIN` -> project's domain
+- `TEMPLATE_GITHUB_USER` -> GitHub username
+- `TEMPLATE_AUTHOR_NAME` -> author name, like "Rick Busarow"
 
 3. create a GitHub secret for GH Actions named `PERSONAL_ACCESS_TOKEN`

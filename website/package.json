@@ -1,5 +1,5 @@
 {
-  "name": "foo",
+  "name": "TEMPLATE_PROJECT_NAME",
   "version": "0.10.0",
   "private": true,
   "scripts": {

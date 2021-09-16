@@ -37,7 +37,7 @@ extensions.configure<kotlinx.knit.KnitPluginExtension> {
 
   moduleDocs = "build/dokka"
   moduleMarkers = listOf("build.gradle", "build.gradle.kts")
-  siteRoot = "https://\$GITHUB_USER$/github.io/\$PROJECT$"
+  siteRoot = "https://TEMPLATE_GITHUB_USER/github.io/TEMPLATE_PROJECT_NAME"
 }
 
 // Build API docs for all modules with dokka before running Knit

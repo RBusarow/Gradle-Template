@@ -52,7 +52,7 @@ gradleEnterprise {
   }
 }
 
-rootProject.name = "\$PROJECT$"
+rootProject.name = "TEMPLATE_PROJECT_NAME"
 enableFeaturePreview("VERSION_CATALOGS")
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
