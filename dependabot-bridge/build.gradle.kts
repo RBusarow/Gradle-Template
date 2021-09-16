@@ -157,7 +157,7 @@ dependencies {
   dependencySync("org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.5.21")
   dependencySync("org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.21")
   dependencySync("org.jetbrains.kotlin:kotlin-reflect:1.5.21")
-  dependencySync("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.21")
+  dependencySync("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.30")
   dependencySync("org.jetbrains.kotlinx:atomicfu-gradle-plugin:0.16.3")
   dependencySync("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2")
   dependencySync("org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2")
