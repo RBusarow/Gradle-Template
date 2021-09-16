@@ -74,35 +74,6 @@ jobs:
           commit_message: Apply KtLint format
           commit_options: '--no-verify --signoff'
 
-  sort-dependencies:
-
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          fetch-depth: 0
-
-      - name: Set up JDK
-        uses : actions/setup-java@v2
-        with :
-          distribution : 'adopt'
-          java-version : '14'
-          cache: 'gradle'
-
-      # formats all kotlin files
-      - name: KtLint format
-        run: ./gradlew modulechecksortdependencies --no-daemon
-
-      # If ModuleCheck generated changes, commit and push those changes.
-      - name: commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: sort dependencies
-          commit_options: '--no-verify --signoff'
-
   versioning:
 
     runs-on: ubuntu-latest
