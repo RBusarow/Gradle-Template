@@ -72,7 +72,7 @@ dependencies {
   dependencySync("androidx.test.espresso:espresso-web:3.3.0")
   dependencySync("androidx.test.ext:junit:1.1.3")
   dependencySync("androidx.test.ext:truth:1.3.0")
-  dependencySync("androidx.test:core:1.3.0")
+  dependencySync("androidx.test:core:1.4.0")
   dependencySync("androidx.test:orchestrator:1.3.0")
   dependencySync("androidx.test:rules:1.3.0")
   dependencySync("androidx.test:runner:1.3.0")
