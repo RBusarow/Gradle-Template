@@ -51,7 +51,7 @@ dependencies {
   dependencySync("androidx.lifecycle:lifecycle-viewmodel:2.3.1")
   dependencySync("androidx.navigation:navigation-common:2.4.0-alpha08")
   dependencySync("androidx.navigation:navigation-compose:2.4.0-alpha08")
-  dependencySync("androidx.navigation:navigation-fragment-ktx:2.4.0-alpha08")
+  dependencySync("androidx.navigation:navigation-fragment-ktx:2.4.0-alpha09")
   dependencySync("androidx.navigation:navigation-runtime-ktx:2.4.0-alpha08")
   dependencySync("androidx.navigation:navigation-ui-ktx:2.4.0-alpha08")
   dependencySync("androidx.paging:paging-common-ktx:3.0.1")
