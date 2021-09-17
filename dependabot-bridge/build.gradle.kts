@@ -89,7 +89,7 @@ dependencies {
   dependencySync("com.google.auto.service:auto-service:1.0")
   dependencySync("com.google.auto:auto-common:1.1.2")
   dependencySync("com.google.dagger:dagger-compiler:2.38.1")
-  dependencySync("com.google.dagger:dagger:2.38.0")
+  dependencySync("com.google.dagger:dagger:2.38.1")
   dependencySync("com.google.devtools.ksp:symbol-processing-gradle-plugin:1.5.30-1.0.0")
   dependencySync("com.jakewharton.timber:timber:5.0.1")
   dependencySync("com.rickbusarow.dispatch:dispatch-android-espresso:1.0.0-beta10")
