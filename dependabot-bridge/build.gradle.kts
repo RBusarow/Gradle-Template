@@ -131,7 +131,7 @@ dependencies {
 
   dependencySync("gradle.plugin.dev.arunkumar:scabbard-gradle-plugin:0.5.0")
 
-  dependencySync("io.coil-kt:coil-compose:1.3.1")
+  dependencySync("io.coil-kt:coil-compose:1.3.2")
   dependencySync("io.coil-kt:coil-gif:1.3.1")
   dependencySync("io.coil-kt:coil:1.3.1")
   dependencySync("io.kotest:kotest-assertions-core-jvm:4.6.2")
