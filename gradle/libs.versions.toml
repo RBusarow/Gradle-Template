@@ -34,7 +34,7 @@ kotlinx-coroutines = "1.5.0"
 kotlinx-knit = "0.3.0"
 
 google-dagger = "2.38.1"
-google-material = "1.3.0"
+google-material = "1.4.0"
 
 square-moshi = "1.12.0"
 square-okhttp = "4.9.1"
