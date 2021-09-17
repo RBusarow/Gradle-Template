@@ -67,7 +67,7 @@ dependencies {
   dependencySync("androidx.startup:startup-runtime:1.1.0")
   dependencySync("androidx.test.espresso:espresso-contrib:3.3.0")
   dependencySync("androidx.test.espresso:espresso-core:3.3.0")
-  dependencySync("androidx.test.espresso:espresso-idling-resource:3.3.0")
+  dependencySync("androidx.test.espresso:espresso-idling-resource:3.4.0")
   dependencySync("androidx.test.espresso:espresso-intents:3.3.0")
   dependencySync("androidx.test.espresso:espresso-web:3.3.0")
   dependencySync("androidx.test.ext:junit:1.1.3")
