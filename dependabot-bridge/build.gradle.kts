@@ -138,7 +138,7 @@ dependencies {
   dependencySync("io.kotest:kotest-assertions-shared-jvm:4.6.0")
   dependencySync("io.kotest:kotest-common-jvm:4.6.0")
   dependencySync("io.kotest:kotest-property-jvm:4.6.0")
-  dependencySync("io.kotest:kotest-runner-junit5-jvm:4.6.0")
+  dependencySync("io.kotest:kotest-runner-junit5-jvm:4.6.2")
   dependencySync("io.mockk:mockk:1.12.0")
 
   dependencySync("javax.annotation:jsr250-api:1.0")
