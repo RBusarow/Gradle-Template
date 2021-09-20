@@ -134,7 +134,7 @@ dependencies {
   dependencySync("io.coil-kt:coil-compose:1.3.2")
   dependencySync("io.coil-kt:coil-gif:1.3.2")
   dependencySync("io.coil-kt:coil:1.3.2")
-  dependencySync("io.kotest:kotest-assertions-core-jvm:4.6.2")
+  dependencySync("io.kotest:kotest-assertions-core-jvm:4.6.3")
   dependencySync("io.kotest:kotest-assertions-shared-jvm:4.6.2")
   dependencySync("io.kotest:kotest-common-jvm:4.6.2")
   dependencySync("io.kotest:kotest-property-jvm:4.6.2")
