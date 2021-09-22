@@ -120,7 +120,7 @@ dependencies {
   dependencySync("com.squareup.retrofit2:converter-moshi:2.9.0")
   dependencySync("com.squareup.retrofit2:retrofit-mock:2.9.0")
   dependencySync("com.squareup.retrofit2:retrofit:2.9.0")
-  dependencySync("com.squareup:kotlinpoet:1.9.0")
+  dependencySync("com.squareup:kotlinpoet:1.10.1")
   dependencySync("com.vanniktech:gradle-maven-publish-plugin:0.18.0")
 
   dependencySync("dev.zacsweers.autoservice:auto-service-ksp:1.0.0")
