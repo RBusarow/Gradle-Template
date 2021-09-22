@@ -151,7 +151,7 @@ google-auto-service-processor = "com.google.auto.service:auto-service:1.0"
 google-dagger-api = { module = "com.google.dagger:dagger", version.ref = "google-dagger" }
 google-dagger-compiler = { module = "com.google.dagger:dagger-compiler", version.ref = "google-dagger" }
 
-google-ksp = "com.google.devtools.ksp:symbol-processing-gradle-plugin:1.5.30-1.0.0"
+google-ksp = "com.google.devtools.ksp:symbol-processing-gradle-plugin:1.5.31-1.0.0"
 
 google-material-android = { module = "com.google.android.material:material", version.ref = "google-material" }
 
@@ -226,7 +226,7 @@ square-anvil-compiler-core = { module = "com.squareup.anvil:compiler", version.r
 square-anvil-compiler-utils = { module = "com.squareup.anvil:compiler-utils", version.ref = "anvil" }
 square-anvil-gradle = { module = "com.squareup.anvil:gradle-plugin", version.ref = "anvil" }
 
-square-kotlinPoet = "com.squareup:kotlinpoet:1.9.0"
+square-kotlinPoet = "com.squareup:kotlinpoet:1.10.1"
 
 square-moshi-adapters = { module = "com.squareup.moshi:moshi-adapters", version.ref = "square-moshi" }
 square-moshi-core = { module = "com.squareup.moshi:moshi", version.ref = "square-moshi" }
