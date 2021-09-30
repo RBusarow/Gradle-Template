@@ -62,7 +62,7 @@ dependencies {
   dependencySync("androidx.room:room-ktx:2.4.0-alpha04")
   dependencySync("androidx.room:room-paging:2.4.0-alpha04")
   dependencySync("androidx.room:room-runtime:2.4.0-alpha04")
-  dependencySync("androidx.room:room-testing:2.4.0-alpha04")
+  dependencySync("androidx.room:room-testing:2.4.0-alpha05")
   dependencySync("androidx.savedstate:savedstate:1.1.0")
   dependencySync("androidx.startup:startup-runtime:1.1.0")
   dependencySync("androidx.test.espresso:espresso-contrib:3.4.0")
