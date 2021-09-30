@@ -60,7 +60,7 @@ dependencies {
   dependencySync("androidx.room:room-common:2.4.0-alpha04")
   dependencySync("androidx.room:room-compiler:2.4.0-alpha04")
   dependencySync("androidx.room:room-ktx:2.4.0-alpha04")
-  dependencySync("androidx.room:room-paging:2.4.0-alpha04")
+  dependencySync("androidx.room:room-paging:2.4.0-alpha05")
   dependencySync("androidx.room:room-runtime:2.4.0-alpha04")
   dependencySync("androidx.room:room-testing:2.4.0-alpha04")
   dependencySync("androidx.savedstate:savedstate:1.1.0")
