@@ -80,11 +80,6 @@ dependencies {
   dependencySync("androidx.work:work-runtime:2.6.0")
   dependencySync("androidx.work:work-testing:2.6.0")
 
-
-
-
-
-
   dependencySync("com.android.tools.build:gradle:7.0.2")
   dependencySync("com.github.javaparser:javaparser-symbol-solver-core:3.23.0")
   dependencySync("com.github.tschuchortdev:kotlin-compile-testing:1.4.5")
@@ -128,28 +123,13 @@ dependencies {
   dependencySync("com.squareup:kotlinpoet:1.10.1")
   dependencySync("com.vanniktech:gradle-maven-publish-plugin:0.18.0")
 
-
-
-
-
-
   dependencySync("dev.zacsweers.autoservice:auto-service-ksp:1.0.0")
   dependencySync("dev.zacsweers.moshix:moshi-ksp:0.14.1")
   dependencySync("dev.zacsweers.moshix:moshi-sealed-codegen:0.14.1")
   dependencySync("dev.zacsweers.moshix:moshi-sealed-ksp:0.14.1")
   dependencySync("dev.zacsweers.moshix:moshi-sealed-runtime:0.14.1")
 
-
-
-
-
-
   dependencySync("gradle.plugin.dev.arunkumar:scabbard-gradle-plugin:0.5.0")
-
-
-
-
-
 
   dependencySync("io.coil-kt:coil-compose:1.4.0")
   dependencySync("io.coil-kt:coil-gif:1.4.0")
@@ -161,32 +141,12 @@ dependencies {
   dependencySync("io.kotest:kotest-runner-junit5-jvm:4.6.3")
   dependencySync("io.mockk:mockk:1.12.0")
 
-
-
-
-
-
   dependencySync("javax.annotation:jsr250-api:1.0")
   dependencySync("javax.inject:javax.inject:1")
 
-
-
-
-
-
   dependencySync("junit:junit:4.13.2")
 
-
-
-
-
-
   dependencySync("net.swiftzer.semver:semver:1.1.1")
-
-
-
-
-
 
   dependencySync("org.codehaus.groovy:groovy-xml:3.0.9")
   dependencySync("org.codehaus.groovy:groovy:3.0.9")
