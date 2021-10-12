@@ -82,6 +82,7 @@ dependencies {
 
 
 
+
   dependencySync("com.android.tools.build:gradle:7.0.2")
   dependencySync("com.github.javaparser:javaparser-symbol-solver-core:3.23.0")
   dependencySync("com.github.tschuchortdev:kotlin-compile-testing:1.4.5")
@@ -127,6 +128,7 @@ dependencies {
 
 
 
+
   dependencySync("dev.zacsweers.autoservice:auto-service-ksp:1.0.0")
   dependencySync("dev.zacsweers.moshix:moshi-ksp:0.14.1")
   dependencySync("dev.zacsweers.moshix:moshi-sealed-codegen:0.14.1")
@@ -135,7 +137,9 @@ dependencies {
 
 
 
+
   dependencySync("gradle.plugin.dev.arunkumar:scabbard-gradle-plugin:0.5.0")
+
 
 
 
@@ -151,8 +155,10 @@ dependencies {
 
 
 
+
   dependencySync("javax.annotation:jsr250-api:1.0")
   dependencySync("javax.inject:javax.inject:1")
+
 
 
 
@@ -160,7 +166,9 @@ dependencies {
 
 
 
+
   dependencySync("net.swiftzer.semver:semver:1.1.1")
+
 
 
 
