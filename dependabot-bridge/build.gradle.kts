@@ -285,6 +285,7 @@ dependencies {
 
 
 
+
   dependencySync("com.android.tools.build:gradle:7.0.2")
   dependencySync("com.github.javaparser:javaparser-symbol-solver-core:3.23.0")
   dependencySync("com.github.tschuchortdev:kotlin-compile-testing:1.4.5")
@@ -327,6 +328,7 @@ dependencies {
   dependencySync("com.squareup.retrofit2:retrofit:2.9.0")
   dependencySync("com.squareup:kotlinpoet:1.10.1")
   dependencySync("com.vanniktech:gradle-maven-publish-plugin:0.18.0")
+
 
 
 
@@ -744,7 +746,9 @@ dependencies {
 
 
 
+
   dependencySync("gradle.plugin.dev.arunkumar:scabbard-gradle-plugin:0.5.0")
+
 
 
 
@@ -1166,8 +1170,10 @@ dependencies {
 
 
 
+
   dependencySync("javax.annotation:jsr250-api:1.0")
   dependencySync("javax.inject:javax.inject:1")
+
 
 
 
@@ -1581,7 +1587,9 @@ dependencies {
 
 
 
+
   dependencySync("net.swiftzer.semver:semver:1.1.1")
+
 
 
 
