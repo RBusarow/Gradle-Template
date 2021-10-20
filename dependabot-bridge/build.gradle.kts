@@ -108,7 +108,7 @@ dependencies {
   dependencySync("com.rickbusarow.hermit:hermit-mockk:0.9.5")
   dependencySync("com.squareup.anvil:annotations:2.3.5")
   dependencySync("com.squareup.anvil:compiler-api:2.3.5")
-  dependencySync("com.squareup.anvil:compiler-utils:2.3.5")
+  dependencySync("com.squareup.anvil:compiler-utils:2.3.7")
   dependencySync("com.squareup.anvil:compiler:2.3.5")
   dependencySync("com.squareup.anvil:gradle-plugin:2.3.5")
   dependencySync("com.squareup.moshi:moshi-adapters:1.12.0")
