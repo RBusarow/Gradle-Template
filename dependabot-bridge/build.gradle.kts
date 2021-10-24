@@ -81,7 +81,6 @@ dependencies {
   dependencySync("androidx.work:work-testing:2.7.0")
 
   dependencySync("com.android.tools.build:gradle:7.0.3")
-
   dependencySync("com.github.javaparser:javaparser-symbol-solver-core:3.23.1")
   dependencySync("com.github.tschuchortdev:kotlin-compile-testing:1.4.5")
   dependencySync("com.google.accompanist:accompanist-coil:0.15.0")
