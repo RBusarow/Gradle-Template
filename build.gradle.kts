@@ -21,7 +21,6 @@ import org.jlleitschuh.gradle.ktlint.tasks.BaseKtLintCheckTask
 
 buildscript {
   repositories {
-    mavenLocal()
     mavenCentral()
     google()
     maven("https://plugins.gradle.org/m2/")
@@ -41,7 +40,7 @@ plugins {
   kotlin("jvm")
   id("com.github.ben-manes.versions") version "0.39.0"
   id("io.gitlab.arturbosch.detekt") version "1.18.1"
-  id("com.rickbusarow.module-check") version "0.11.0"
+  id("com.rickbusarow.module-check") version "0.11.2"
   id("com.osacky.doctor") version "0.7.3"
   id("com.dorongold.task-tree") version "2.1.0"
   id("org.jetbrains.kotlinx.binary-compatibility-validator") version "0.7.1"
@@ -55,7 +54,6 @@ allprojects {
 
   repositories {
     google()
-    mavenLocal()
     mavenCentral()
     maven("https://oss.sonatype.org/content/repositories/snapshots")
   }

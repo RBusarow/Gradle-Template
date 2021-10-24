@@ -17,7 +17,7 @@ updates:
       - "automerge"
     ignore:
       - dependency-name: "*kotlinx-coroutines-*"
-        versions: [ "1.5.1-native-mt" ]
+        versions: [ "1.5.1-native-mt", "1.5.2-native-mt" ]
 
   - package-ecosystem: "npm" # See documentation for possible values
     directory: "/website" # Location of package manifests
