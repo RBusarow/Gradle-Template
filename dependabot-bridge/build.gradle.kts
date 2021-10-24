@@ -14,7 +14,7 @@
  */
 
 plugins {
-  id("com.rickbusarow.gradle-dependency-sync") version "0.11.2"
+  id("com.rickbusarow.gradle-dependency-sync") version "0.11.3"
 }
 
 dependencies {
@@ -80,7 +80,7 @@ dependencies {
   dependencySync("androidx.work:work-runtime:2.6.0")
   dependencySync("androidx.work:work-testing:2.6.0")
 
-  dependencySync("com.android.tools.build:gradle:7.0.2")
+  dependencySync("com.android.tools.build:gradle:7.0.3")
   dependencySync("com.github.javaparser:javaparser-symbol-solver-core:3.23.1")
   dependencySync("com.github.tschuchortdev:kotlin-compile-testing:1.4.5")
   dependencySync("com.google.accompanist:accompanist-coil:0.15.0")
@@ -106,11 +106,11 @@ dependencies {
   dependencySync("com.rickbusarow.hermit:hermit-junit4:0.9.5")
   dependencySync("com.rickbusarow.hermit:hermit-junit5:0.9.5")
   dependencySync("com.rickbusarow.hermit:hermit-mockk:0.9.5")
-  dependencySync("com.squareup.anvil:annotations:2.3.4")
-  dependencySync("com.squareup.anvil:compiler-api:2.3.4")
-  dependencySync("com.squareup.anvil:compiler-utils:2.3.4")
-  dependencySync("com.squareup.anvil:compiler:2.3.4")
-  dependencySync("com.squareup.anvil:gradle-plugin:2.3.4")
+  dependencySync("com.squareup.anvil:annotations:2.3.5")
+  dependencySync("com.squareup.anvil:compiler-api:2.3.5")
+  dependencySync("com.squareup.anvil:compiler-utils:2.3.5")
+  dependencySync("com.squareup.anvil:compiler:2.3.5")
+  dependencySync("com.squareup.anvil:gradle-plugin:2.3.5")
   dependencySync("com.squareup.moshi:moshi-adapters:1.12.0")
   dependencySync("com.squareup.moshi:moshi-kotlin-codegen:1.12.0")
   dependencySync("com.squareup.moshi:moshi-kotlin:1.12.0")
@@ -131,9 +131,9 @@ dependencies {
 
   dependencySync("gradle.plugin.dev.arunkumar:scabbard-gradle-plugin:0.5.0")
 
-  dependencySync("io.coil-kt:coil-compose:1.3.2")
-  dependencySync("io.coil-kt:coil-gif:1.3.2")
-  dependencySync("io.coil-kt:coil:1.3.2")
+  dependencySync("io.coil-kt:coil-compose:1.4.0")
+  dependencySync("io.coil-kt:coil-gif:1.4.0")
+  dependencySync("io.coil-kt:coil:1.4.0")
   dependencySync("io.kotest:kotest-assertions-core-jvm:4.6.3")
   dependencySync("io.kotest:kotest-assertions-shared-jvm:4.6.3")
   dependencySync("io.kotest:kotest-common-jvm:4.6.3")
