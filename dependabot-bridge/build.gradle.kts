@@ -40,7 +40,7 @@ dependencies {
   dependencySync("androidx.fragment:fragment-ktx:1.3.6")
   dependencySync("androidx.fragment:fragment-testing:1.3.6")
   dependencySync("androidx.fragment:fragment:1.3.6")
-  dependencySync("androidx.lifecycle:lifecycle-common:2.4.0-rc01")
+  dependencySync("androidx.lifecycle:lifecycle-common:2.4.0")
   dependencySync("androidx.lifecycle:lifecycle-livedata-core:2.4.0-rc01")
   dependencySync("androidx.lifecycle:lifecycle-livedata-ktx:2.4.0-rc01")
   dependencySync("androidx.lifecycle:lifecycle-runtime-ktx:2.4.0-rc01")
