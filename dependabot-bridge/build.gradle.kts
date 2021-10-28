@@ -36,7 +36,7 @@ dependencies {
   dependencySync("androidx.compose.ui:ui-tooling:1.0.4")
   dependencySync("androidx.compose.ui:ui:1.0.4")
   dependencySync("androidx.constraintlayout:constraintlayout:2.1.1")
-  dependencySync("androidx.core:core-ktx:1.6.0")
+  dependencySync("androidx.core:core-ktx:1.7.0")
   dependencySync("androidx.fragment:fragment-ktx:1.3.6")
   dependencySync("androidx.fragment:fragment-testing:1.3.6")
   dependencySync("androidx.fragment:fragment:1.3.6")

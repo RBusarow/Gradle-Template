@@ -77,7 +77,7 @@ androidx-compose-ui-tooling = { module = "androidx.compose.ui:ui-tooling", versi
 
 androidx-constraintLayout = "androidx.constraintlayout:constraintlayout:2.1.1"
 
-androidx-coreKtx = "androidx.core:core-ktx:1.6.0"
+androidx-coreKtx = "androidx.core:core-ktx:1.7.0"
 
 androidx-fragment-core = { module = "androidx.fragment:fragment", version.ref = "androidx-fragment-version" }
 androidx-fragment-ktx = { module = "androidx.fragment:fragment-ktx", version.ref = "androidx-fragment-version" }
