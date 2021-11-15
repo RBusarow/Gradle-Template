@@ -240,7 +240,7 @@ square-retrofit-core = { module = "com.squareup.retrofit2:retrofit", version.ref
 square-retrofit-mock = { module = "com.squareup.retrofit2:retrofit-mock", version.ref = "square-retrofit" }
 square-retrofit-moshi = { module = "com.squareup.retrofit2:converter-moshi", version.ref = "square-retrofit" }
 
-swiftzer-semver = "net.swiftzer.semver:semver:1.1.1"
+swiftzer-semver = "net.swiftzer.semver:semver:1.1.2"
 
 timber = "com.jakewharton.timber:timber:5.0.1"
 
