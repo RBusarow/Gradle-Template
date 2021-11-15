@@ -13,7 +13,7 @@ groovy = "3.0.9"
 hermit = "0.9.5"
 jUnit = "5.8.1"
 kotest = "4.6.3"
-kotlin = "1.5.31"
+kotlin = "1.6.0"
 
 spotless = "5.10.1"
 taskTree = "1.5"
