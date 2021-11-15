@@ -172,5 +172,5 @@ dependencies {
   dependencySync("org.junit.jupiter:junit-jupiter-params:5.8.1")
   dependencySync("org.junit.jupiter:junit-jupiter:5.8.1")
   dependencySync("org.junit.vintage:junit-vintage-engine:5.8.1")
-  dependencySync("org.robolectric:robolectric:4.6.1")
+  dependencySync("org.robolectric:robolectric:4.7")
 }
