@@ -146,7 +146,7 @@ dependencies {
 
   dependencySync("junit:junit:4.13.2")
 
-  dependencySync("net.swiftzer.semver:semver:1.1.1")
+  dependencySync("net.swiftzer.semver:semver:1.1.2")
 
   dependencySync("org.codehaus.groovy:groovy-xml:3.0.9")
   dependencySync("org.codehaus.groovy:groovy:3.0.9")
@@ -172,5 +172,5 @@ dependencies {
   dependencySync("org.junit.jupiter:junit-jupiter-params:5.8.1")
   dependencySync("org.junit.jupiter:junit-jupiter:5.8.1")
   dependencySync("org.junit.vintage:junit-vintage-engine:5.8.1")
-  dependencySync("org.robolectric:robolectric:4.6.1")
+  dependencySync("org.robolectric:robolectric:4.7")
 }
