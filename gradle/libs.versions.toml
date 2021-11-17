@@ -204,7 +204,7 @@ kotlinx-knit-test = { module = "org.jetbrains.kotlinx:kotlinx-knit-test", versio
 
 ktlint-gradle = "org.jlleitschuh.gradle:ktlint-gradle:10.2.0"
 
-mockk = "io.mockk:mockk:1.12.0"
+mockk = "io.mockk:mockk:1.12.1"
 
 rickBusarow-dispatch-core = { module = "com.rickbusarow.dispatch:dispatch-core", version.ref = "dispatch" }
 rickBusarow-dispatch-detekt = { module = "com.rickbusarow.dispatch:dispatch-detekt", version.ref = "dispatch" }
