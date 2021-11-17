@@ -108,7 +108,7 @@ dependencies {
   dependencySync("com.rickbusarow.hermit:hermit-mockk:0.9.5")
   dependencySync("com.squareup.anvil:annotations:2.3.9")
   dependencySync("com.squareup.anvil:compiler-api:2.3.9")
-  dependencySync("com.squareup.anvil:compiler-utils:2.3.9")
+  dependencySync("com.squareup.anvil:compiler-utils:2.3.9-1-6-0")
   dependencySync("com.squareup.anvil:compiler:2.3.9")
   dependencySync("com.squareup.anvil:gradle-plugin:2.3.9")
   dependencySync("com.squareup.moshi:moshi-adapters:1.12.0")
@@ -139,7 +139,7 @@ dependencies {
   dependencySync("io.kotest:kotest-common-jvm:4.6.3")
   dependencySync("io.kotest:kotest-property-jvm:4.6.3")
   dependencySync("io.kotest:kotest-runner-junit5-jvm:4.6.3")
-  dependencySync("io.mockk:mockk:1.12.0")
+  dependencySync("io.mockk:mockk:1.12.1")
 
   dependencySync("javax.annotation:jsr250-api:1.0")
   dependencySync("javax.inject:javax.inject:1")
