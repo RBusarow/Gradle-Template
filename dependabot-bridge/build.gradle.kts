@@ -139,7 +139,7 @@ dependencies {
   dependencySync("io.kotest:kotest-common-jvm:4.6.3")
   dependencySync("io.kotest:kotest-property-jvm:4.6.3")
   dependencySync("io.kotest:kotest-runner-junit5-jvm:4.6.3")
-  dependencySync("io.mockk:mockk:1.12.0")
+  dependencySync("io.mockk:mockk:1.12.1")
 
   dependencySync("javax.annotation:jsr250-api:1.0")
   dependencySync("javax.inject:javax.inject:1")
