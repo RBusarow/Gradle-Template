@@ -77,8 +77,8 @@ dependencies {
   dependencySync("androidx.test:rules:1.4.0")
   dependencySync("androidx.test:runner:1.4.0")
   dependencySync("androidx.work:work-runtime-ktx:2.7.1")
-  dependencySync("androidx.work:work-runtime:2.7.0")
-  dependencySync("androidx.work:work-testing:2.7.0")
+  dependencySync("androidx.work:work-runtime:2.7.1")
+  dependencySync("androidx.work:work-testing:2.7.1")
 
   dependencySync("com.android.tools.build:gradle:7.0.3")
   dependencySync("com.github.javaparser:javaparser-symbol-solver-core:3.23.1")
