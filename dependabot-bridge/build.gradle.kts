@@ -87,7 +87,7 @@ dependencies {
   dependencySync("com.google.android.material:material:1.4.0")
   dependencySync("com.google.auto.service:auto-service-annotations:1.0.1")
   dependencySync("com.google.auto.service:auto-service:1.0")
-  dependencySync("com.google.auto:auto-common:1.2")
+  dependencySync("com.google.auto:auto-common:1.2.1")
   dependencySync("com.google.dagger:dagger-compiler:2.40.1")
   dependencySync("com.google.dagger:dagger:2.40.1")
   dependencySync("com.google.devtools.ksp:symbol-processing-gradle-plugin:1.5.31-1.0.0")
