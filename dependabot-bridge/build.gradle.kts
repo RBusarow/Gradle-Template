@@ -56,7 +56,7 @@ dependencies {
   dependencySync("androidx.navigation:navigation-ui-ktx:2.4.0-beta02")
   dependencySync("androidx.paging:paging-common-ktx:3.1.0")
   dependencySync("androidx.paging:paging-compose:1.0.0-alpha14")
-  dependencySync("androidx.paging:paging-runtime-ktx:3.1.0-rc01")
+  dependencySync("androidx.paging:paging-runtime-ktx:3.1.0")
   dependencySync("androidx.room:room-common:2.4.0-beta02")
   dependencySync("androidx.room:room-compiler:2.4.0-beta02")
   dependencySync("androidx.room:room-ktx:2.4.0-beta02")
