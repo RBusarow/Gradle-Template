@@ -23,7 +23,7 @@ dependencies {
   dependencySync("androidx.activity:activity-ktx:1.4.0")
   dependencySync("androidx.activity:activity:1.4.0")
   dependencySync("androidx.annotation:annotation:1.3.0")
-  dependencySync("androidx.appcompat:appcompat:1.3.1")
+  dependencySync("androidx.appcompat:appcompat:1.4.0")
   dependencySync("androidx.arch.core:core-testing:2.1.0")
   dependencySync("androidx.compose.compiler:compiler:1.0.5")
   dependencySync("androidx.compose.foundation:foundation:1.0.5")
@@ -82,7 +82,7 @@ dependencies {
 
   dependencySync("com.android.tools.build:gradle:7.0.3")
   dependencySync("com.github.javaparser:javaparser-symbol-solver-core:3.23.1")
-  dependencySync("com.github.tschuchortdev:kotlin-compile-testing:1.4.5")
+  dependencySync("com.github.tschuchortdev:kotlin-compile-testing:1.4.6")
   dependencySync("com.google.accompanist:accompanist-coil:0.15.0")
   dependencySync("com.google.android.material:material:1.4.0")
   dependencySync("com.google.auto.service:auto-service-annotations:1.0.1")
