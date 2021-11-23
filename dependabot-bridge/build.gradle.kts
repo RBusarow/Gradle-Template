@@ -115,8 +115,8 @@ dependencies {
   dependencySync("com.squareup.moshi:moshi-kotlin-codegen:1.12.0")
   dependencySync("com.squareup.moshi:moshi-kotlin:1.12.0")
   dependencySync("com.squareup.moshi:moshi:1.12.0")
-  dependencySync("com.squareup.okhttp3:logging-interceptor:4.9.2")
-  dependencySync("com.squareup.okhttp3:okhttp:4.9.2")
+  dependencySync("com.squareup.okhttp3:logging-interceptor:4.9.3")
+  dependencySync("com.squareup.okhttp3:okhttp:4.9.3")
   dependencySync("com.squareup.retrofit2:converter-moshi:2.9.0")
   dependencySync("com.squareup.retrofit2:retrofit-mock:2.9.0")
   dependencySync("com.squareup.retrofit2:retrofit:2.9.0")
@@ -172,5 +172,5 @@ dependencies {
   dependencySync("org.junit.jupiter:junit-jupiter-params:5.8.1")
   dependencySync("org.junit.jupiter:junit-jupiter:5.8.1")
   dependencySync("org.junit.vintage:junit-vintage-engine:5.8.1")
-  dependencySync("org.robolectric:robolectric:4.7")
+  dependencySync("org.robolectric:robolectric:4.7.2")
 }
