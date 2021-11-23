@@ -82,7 +82,7 @@ dependencies {
 
   dependencySync("com.android.tools.build:gradle:7.0.3")
   dependencySync("com.github.javaparser:javaparser-symbol-solver-core:3.23.1")
-  dependencySync("com.github.tschuchortdev:kotlin-compile-testing:1.4.5")
+  dependencySync("com.github.tschuchortdev:kotlin-compile-testing:1.4.6")
   dependencySync("com.google.accompanist:accompanist-coil:0.15.0")
   dependencySync("com.google.android.material:material:1.4.0")
   dependencySync("com.google.auto.service:auto-service-annotations:1.0.1")
@@ -115,7 +115,7 @@ dependencies {
   dependencySync("com.squareup.moshi:moshi-kotlin-codegen:1.12.0")
   dependencySync("com.squareup.moshi:moshi-kotlin:1.12.0")
   dependencySync("com.squareup.moshi:moshi:1.12.0")
-  dependencySync("com.squareup.okhttp3:logging-interceptor:4.9.2")
+  dependencySync("com.squareup.okhttp3:logging-interceptor:4.9.3")
   dependencySync("com.squareup.okhttp3:okhttp:4.9.2")
   dependencySync("com.squareup.retrofit2:converter-moshi:2.9.0")
   dependencySync("com.squareup.retrofit2:retrofit-mock:2.9.0")
