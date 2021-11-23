@@ -37,7 +37,7 @@ google-dagger = "2.40.1"
 google-material = "1.4.0"
 
 square-moshi = "1.12.0"
-square-okhttp = "4.9.2"
+square-okhttp = "4.9.3"
 square-retrofit = "2.9.0"
 
 zacSweers-moshix = "0.14.1"
